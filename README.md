@@ -1,1 +1,2 @@
 # ReqResTesting
+[Скачать отчет API TESTING (PDF)](./ASSIGNMENT%207%20—%20API%20TESTING%20REPORT.pdf)
